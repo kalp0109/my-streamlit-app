@@ -15,3 +15,7 @@ A simple interactive word guessing game built using Streamlit.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+[👉 Click Here to Play the Game](https://my-app-app-nwanmywrhseak9e7v5ynxl.streamlit.app)]
