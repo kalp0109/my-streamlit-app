@@ -18,4 +18,4 @@ streamlit run app.py
 
 
 
-[👉 Click Here to Play the Game](https://my-app-app-nwanmywrhseak9e7v5ynxl.streamlit.app)]
+[👉 Click Here to Play the Game](https://my-app-app-nwanmywrhseak9e7v5ynxl.streamlit.app)
